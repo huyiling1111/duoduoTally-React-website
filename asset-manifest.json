@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/duoduoTally-React-website/static/css/main.4864022c.chunk.css",
+    "main.js": "/duoduoTally-React-website/static/js/main.4fd655f3.chunk.js",
+    "main.js.map": "/duoduoTally-React-website/static/js/main.4fd655f3.chunk.js.map",
+    "runtime-main.js": "/duoduoTally-React-website/static/js/runtime-main.68219af3.js",
+    "runtime-main.js.map": "/duoduoTally-React-website/static/js/runtime-main.68219af3.js.map",
+    "static/js/2.8f1c605d.chunk.js": "/duoduoTally-React-website/static/js/2.8f1c605d.chunk.js",
+    "static/js/2.8f1c605d.chunk.js.map": "/duoduoTally-React-website/static/js/2.8f1c605d.chunk.js.map",
+    "index.html": "/duoduoTally-React-website/index.html",
+    "static/css/main.4864022c.chunk.css.map": "/duoduoTally-React-website/static/css/main.4864022c.chunk.css.map",
+    "static/js/2.8f1c605d.chunk.js.LICENSE.txt": "/duoduoTally-React-website/static/js/2.8f1c605d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68219af3.js",
+    "static/js/2.8f1c605d.chunk.js",
+    "static/css/main.4864022c.chunk.css",
+    "static/js/main.4fd655f3.chunk.js"
+  ]
+}
